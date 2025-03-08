@@ -1,1 +1,1 @@
-# farm-simulator-api
+# A simple farming simulation API using Spring Boot & PostgreSQL
